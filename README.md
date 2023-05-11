@@ -1,2 +1,5 @@
 # tic-tac-toe
-This is a milestone project for python course 
+
+This repository was originally created to post tic-tac-toe game which I scripted as an exercise.
+Now it contains other things I did in python.
+ 
